@@ -2,8 +2,8 @@
 Built using Next Generation Composability from AEM
 
 ## Environments
-- Preview: https://main--jbbfsi--bansaljitendra.hlx.page/
-- Live: https://main--jbbfsi--bansaljitendra.hlx.live/
+- Preview: https://main--securebankdemo--nikhil22bhatt.aem.page/
+- Live: https://main--securebankdemo--nikhil22bhatt.aem.live/
 
 ## Installation
 
